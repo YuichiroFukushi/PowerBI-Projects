@@ -13,7 +13,7 @@ The AdventureWorks Bike Shop Dashboard is a comprehensive analytics tool designe
 - **Risk Management**:  
   - Flag high-return product categories for quality or process improvements.   
 
-**Page Preview**:  
+**Page Screenshot**:  
 ![Executive Dashboard](https://github.com/user-attachments/assets/c2e3ee97-1567-40e7-9add-02a34e8a4909)
 *This image shows the Executive Dashboard with key metrics such as revenue, profit, and trend charts.* 📊  
 
@@ -25,7 +25,7 @@ The AdventureWorks Bike Shop Dashboard is a comprehensive analytics tool designe
   - Visualize total orders made across continents, countries, or regions.
   - Identify high-demand areas and underserved markets to guide expansion strategies.
 
-**Page Preview**:  
+**Page Screenshot**:  
 ![Map Page](https://github.com/user-attachments/assets/859af3a3-6a9f-487d-b664-ba45add0d388)
 *This image displays the geographic visualization of total orders made across countries by continent, highlighting demand hotspots and opportunities for growth.* 🌐  
 
@@ -40,7 +40,7 @@ The AdventureWorks Bike Shop Dashboard is a comprehensive analytics tool designe
 - **Issue Diagnosis**:  
   - Investigate root causes of returns or underperformance using tools like gauges that display actual metrics versus target metrics, enabling data-driven corrective actions.  
 
-**Page Preview**:  
+**Page Screenshot**:  
 ![Product Detail Page](https://github.com/user-attachments/assets/aa8bddf9-b392-4773-bdc5-73bcb7a51d09)
 *This image highlights product-specific analytics, featuring an area chart for product metrics, a line chart comparing total and adjusted profits, and a gauge displaying actual metrics versus target metrics.* 📊🔍  
 
@@ -53,7 +53,7 @@ The AdventureWorks Bike Shop Dashboard is a comprehensive analytics tool designe
 - **Behavior-Driven Strategy**:  
   - Analyze purchasing patterns to optimize cross-selling or product bundling.   
 
-**Page Preview**:  
+**Page Screenshot**:  
 ![Customer Detail Page](https://github.com/user-attachments/assets/fa242deb-543c-4156-9101-f03aa5fab38f)
 *This image showcases customer segmentation, demographic breakdowns, and engagement metrics.* 📊👥  
 
